@@ -1,9 +1,3 @@
-//
-//  GameKitAuthentication.swift
-//  LinesApp
-//
-//  Created by Berik Visschers on 2021-12-27.
-//
 
 import Foundation
 import GameKit

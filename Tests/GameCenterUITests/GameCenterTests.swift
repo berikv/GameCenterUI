@@ -2,5 +2,5 @@ import XCTest
 @testable import GameCenterUI
 
 final class GameCenterUITests: XCTestCase {
-    // Todo
+    // Testing GameCenter integration can be done by hand
 }

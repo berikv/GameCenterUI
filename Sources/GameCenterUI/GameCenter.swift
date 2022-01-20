@@ -1,9 +1,3 @@
-//
-//  GameCenterViewController.swift
-//  LinesApp
-//
-//  Created by Berik Visschers on 2022-01-04.
-//
 
 import Foundation
 import GameKit
